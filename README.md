@@ -11,7 +11,7 @@ my-model-viewer/
 
 ---
 
-LINK: https://karltunmoreno.github.io/3D-Model-Viewer/
+LINK: https://maxkarltun.github.io/3D-Model-Viewer/
 
 MADE FOR DISPLAYING PRODUCTS - BIG BRANDS - FURNITURE - OBJECTS - GAMIMG -
 AUGMENTED REALITY - SPATIAL VIEWING - ECOMMERCE - ENTERTAINMENT - EDUCATION - MANUFACTURING - HEALTHCARE - RETAIL - ALL IN IN 3D.
